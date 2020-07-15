@@ -10,4 +10,4 @@ General Kenobi
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=manoloesparta&show_icons=true)
 
-[recursion](https://github.com/manoloesparta/manoloesparta)
+[recursion](https://github.com/manoloesparta)
