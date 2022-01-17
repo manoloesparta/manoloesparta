@@ -3,8 +3,8 @@ General Kenobi
 
 ### About
 
--  **Learning :** Computer Science
--  **Languages :** Python, C/C++, Go, JavaScript
--  **Hobbies :** Music & Camping
+-  **Learning :** Computer Science, Microservices, Asynchronous Programing
+-  **Languages :** Python, C/C++, Go, JavaScript, Java
+-  **Hobbies :** Music, Camping, SSBM and Skateboarding
 
 [recursion](https://github.com/manoloesparta)
